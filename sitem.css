@@ -48,6 +48,31 @@ body {
 #campaigns:hover {
   color: rgb(165, 250, 221);
 }
+
+.Designer{
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Staatliches", cursive;
+  font-size: 30px;
+  color: rgb(51, 35, 77);
+}
+#designerName{
+  display: inline-block;
+  padding: 16px 16px 16px 16px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: rgb(233, 90, 64);
+ 
+
+}
+#designerName:hover{
+  transition: 0.4s;
+font-size: 45px;
+color: rgb(16, 48, 156);
+
+}
+
 .iPhoneCampaign {
   width: 33%;
   height: 250px;
